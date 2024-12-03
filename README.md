@@ -148,7 +148,6 @@ Publish the website in the LocalHost.
     </body>
 </html>
 
-
 ## OUTPUT:
 ![alt text](<Screenshot (59).png>)
 
